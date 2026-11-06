@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/QingYunA/answer-me-with-html",
+  "version": "0.5.11",
+  "commit": "053619b917c6bf2e17eae5496d05eb08e10fe889",
+  "file": "skills/answer-me-with-html/scripts/am.mjs",
+  "sha256": "4c26d16ef09b8f33850d99fd31900e2a36e62ec525f4eabfe135aaa07510fb78",
+  "gitBlob": "ea0d921d4ff7f7733d70c43674665b0541253d46",
+  "modified": false,
+  "license": "MIT",
+  "notice": "The upstream bundle is unchanged; bundled dependency notices remain in am.mjs. OFL-Bangers.txt accompanies the upstream font license. Update this bundle deliberately and rerun render.test.mjs."
+}

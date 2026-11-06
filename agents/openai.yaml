@@ -1,0 +1,4 @@
+interface:
+  display_name: "方案图解"
+  short_description: "图为主、少量文字重点，详细内容默认折叠；按方案内容选择图表和图片"
+  default_prompt: "使用 $visual-explainer，把当前方案整理成以图为主的 HTML，文字只保留重点，详细内容默认折叠；按内容选择图表或图片，关键边界保持可见。"

@@ -1,0 +1,8 @@
+node_modules/
+output/
+.ve-render-*/
+ve-test-*/
+ve-presentation-test-*/
+*.log
+.DS_Store
+Thumbs.db
